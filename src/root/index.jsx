@@ -1,6 +1,7 @@
 import logo from "../logo.svg";
 import "./style.css";
 
+// eslint-disable-next-line
 export default () => {
   return (
     <div className="App">
